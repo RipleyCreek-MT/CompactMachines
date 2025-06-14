@@ -1,9 +1,9 @@
 {
 	"CanContainContent": true,
 	"FileVersion": 3,
-	"SemVersion": "1.5.10",
+	"SemVersion": "1.5.11",
 	"Version": 1,
-	"VersionName": "1.5.10",
+	"VersionName": "1.5.11",
 	"FriendlyName": "CompactMachines",
 	"Description": "Use Multiple Machines In One",
 	"Category": "Modding",
@@ -20,10 +20,10 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.8.0",
+			"SemVersion": "^3.11.1",
 			"bIsOptional": false,
 			"Enabled": true
 		}
 	],
-	"GameVersion": ">=365306"
+	"GameVersion": ">=416835"
 }
